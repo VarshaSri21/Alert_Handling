@@ -9,12 +9,12 @@ The problem statement revolves around handling alerts in specific scenarios on t
 1. **Handling the "Sign in" button alert**: The alert should be handled when the user clicks on the "Sign in" button without filling any information.
 2. **Handling the "Forgot Password" link alert**: The alert should be handled when the user clicks on the "Forgot Password" link without filling any details.
 
-__Suggested site__: https://mail.rediff.com/cgi-bin/login.cgi  
+__Suggested site__: : [https://mail.rediff.com/cgi-bin/login.cgi](https://mail.rediff.com/cgi-bin/login.cgi).
 
 __Detailed Description__:
 
 - Launch the browser 
-- Enter URL: https://mail.rediff.com/cgi-bin/login.cgi 
+- Enter URL: : [https://mail.rediff.com/cgi-bin/login.cgi](https://mail.rediff.com/cgi-bin/login.cgi).
 - Keep all the fields empty 
 - Click on Sign In button 
 - Fetch the text of Alert 

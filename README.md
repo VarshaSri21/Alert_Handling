@@ -14,7 +14,7 @@ __Suggested site__: : [rediff.com](https://mail.rediff.com/cgi-bin/login.cgi).
 __Detailed Description__:
 
 - Launch the browser 
-- Enter URL: : [rediff.com](https://mail.rediff.com/cgi-bin/login.cgi).
+- Enter URL: : [https://mail.rediff.com/cgi-bin/login.cgi](https://mail.rediff.com/cgi-bin/login.cgi).
 - Keep all the fields empty 
 - Click on Sign In button 
 - Fetch the text of Alert 
